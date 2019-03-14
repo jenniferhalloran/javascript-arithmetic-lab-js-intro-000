@@ -22,5 +22,5 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return number.parceInt('n', 10);
+  return parceInt('nonsense!', 10);
 }
