@@ -21,16 +21,3 @@ function dec(n) {
   return --n
 }
 
-function makeInt(n) {
-  var n = parseInt("100", 10);
-}
-
-function makeInt(n) {
-  return parseInt("n", 10);
-}
-
-
-function preserveDecimal(n) {
-  var n = 4;
-  return parseFloat('n');
-}
