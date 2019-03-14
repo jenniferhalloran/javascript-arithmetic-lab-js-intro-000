@@ -22,5 +22,6 @@ function dec(n) {
 }
 
 function makeInt(n) {
+  var n = 5
   return parceInt('n', 10);
 }
