@@ -21,6 +21,3 @@ function dec(n) {
   return --n
 }
 
-function makeInt(n) {
-  return parceFloat('n')
-}
