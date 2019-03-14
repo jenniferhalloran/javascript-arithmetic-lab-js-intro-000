@@ -22,5 +22,5 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return parceInt('n', 10);
+  return parceFloat(n);
 }
